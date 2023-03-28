@@ -1,4 +1,4 @@
-# Laravel 9 通用值物件
+# Laravel 10 通用值物件
 
 引入 michael-rubel 的 laravel-value-objects 套件來擴增通用值物件，值物件有助於表示簡單的實體，例如電子郵件或電話。
 
